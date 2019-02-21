@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="auto_complete_hint_string">Enter text</string>
+</resources>
